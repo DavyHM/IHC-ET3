@@ -1,0 +1,35 @@
+
+
+#navbar-fondo{
+    background-color: rgb(74, 40, 149);
+}
+
+.div-rojo{
+    height: 800px;
+    background-color: rgb(255,47,42);
+}
+
+.div-amarillo{
+    height: 400px;
+    background-color: rgb(255,235,61);
+}
+
+.div-marron{
+    height: 400px;
+    background-color: rgb(138, 73, 19);
+}
+
+.div-celeste{
+    height: 400px;
+    background-color: rgb(57,181,229);
+}
+
+.div-verde-claro{
+    height: 400px;
+    background-color: rgb(134,201,69);
+}
+
+.div-verde-oscuro{
+    height: 400px;
+    background-color: rgb(27,104,54);
+}
